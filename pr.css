@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.topnav {
+  background-color:rgb(81, 81, 160);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+/* Add a color to the active/current link */
+.topnav a.active {
+}
+.ab {
+   float: right;
+   text-align: center;
+   display: flex;
+   padding: 10px;
+    
+}
+#ab1{
+    padding-right: 10px;
+    color: white;
+}
+#ab{
+    color: white;
+}
+#ab2{
+    padding-top: 20px;
+    padding-right:10px ;
+    padding-left: 10px;
+}
+#aa{
+background: rgb(81, 81, 160);
+color: white;
+padding: 5px;
+width: 80px;
+font-weight: bold;
+}
+.main{
+  display: flex;
+  background-color: rgb(220, 224, 233);
+}
+.sub1{
+  width: 50%;
+  text-align: right;
+}
+#h2{
+  padding-left: 230px;
+  text-align: left;
+  padding-right: 59px;
+  font-size: 18px;
+  padding-top: 40px;
+}
+#img{
+  padding-left: 250px;
+  padding-top: 50px;
+}
+.sub2{
+  width: 50%;
+}
+#button{
+  background: rgb(52, 179, 52);
+  padding: 10px;
+}
